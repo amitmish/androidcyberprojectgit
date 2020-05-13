@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990378544096",
+    "firebase_url": "https://cyberproject-5c86e.firebaseio.com",
+    "project_id": "cyberproject-5c86e",
+    "storage_bucket": "cyberproject-5c86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990378544096:android:606a51f48ce94b6efd7985",
+        "android_client_info": {
+          "package_name": "com.example.cyberproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990378544096-b3tfp3fu2tb6gph67ao93avvs2gmvc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH36smq0_0oFlrXH5gMkZiOqQ95o12-Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990378544096-b3tfp3fu2tb6gph67ao93avvs2gmvc1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

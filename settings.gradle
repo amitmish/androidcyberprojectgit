@@ -1,0 +1,2 @@
+rootProject.name='cyberproject'
+include ':app'

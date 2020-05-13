@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cyberproject</string>
+    <string name="button">Button</string>
+    <string name="email">Email:</string>
+</resources>
